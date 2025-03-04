@@ -1,6 +1,6 @@
-# BCFA - Blueprint File Analyzer
+# BCFA - Blueprint Custom Field Analyzer
 
-This is the BCFA (Blueprint File Analyzer) application for macOS designed by Pan Shahbazian (Lotus Labs). It is designed to analyze a set of blueprint files (in JSON format) and generate a report on all custom fields it locates, their occurrences (across the files and where they occur within the modules), and all (if any) shared custom fields.
+This is the BCFA (Blueprint Custom Field Analyzer) application for macOS designed by Pan Shahbazian (Lotus Labs). It is designed to analyze a set of blueprint files (in JSON format) and generate a report on all custom fields it locates, their occurrences (across the files and where they occur within the modules), and all (if any) shared custom fields.
 
 ## Installation
 
