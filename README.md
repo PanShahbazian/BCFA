@@ -10,7 +10,7 @@ To use the app, simply download the `.zip` file from the [Releases](https://gith
 
 ### Opening the App for the First Time
 
-If this is your first time opening the app, you might encounter a security warning from macOS' Gatekeeper, especially if the app is from an unidentified developer. Here's how to bypass it:
+If this is your first time opening the app, you might encounter a security warning from macOS' Gatekeeper. Here's how to bypass it:
 
 1. **Right-click** (or **Control-click**) on the `.app` file.
 2. Select **Open** from the context menu.
