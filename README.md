@@ -4,7 +4,7 @@ This is the BCFA (Blueprint File Analyzer) application for macOS designed by Pan
 
 ## Installation
 
-To use the app, simply download the `.app` file from the [Releases](https://github.com/PanShahbazian/BCFA/releases) section and open it on your Mac.
+To use the app, simply download the `.zip` file from the [Releases](https://github.com/PanShahbazian/BCFA/releases) section and open it on your Mac.
 
 **Note:** This application requires a directory containing your blueprint files in JSON format to analyze.
 
@@ -73,4 +73,4 @@ If the app does not run or you encounter issues:
 - **Check Permissions**: Ensure that the `.app` file has proper permissions to run. You may need to go to **System Preferences > Security & Privacy > Privacy** to allow apps from identified developers.
 - **Correct File Path**: Make sure the directory you select contains valid JSON files and that you're not saving the output file in the same directory.
 - **macOS Version**: This app is designed to run on macOS. Make sure you are using a compatible macOS version.
-- **Not Listed**: Please email me directly at me@panshahbazi.com
+- Please submit any bug reports or feature requests via the [Issues](https://github.com/PanShahbazian/BCFA/issues) tab.
